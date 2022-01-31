@@ -72,6 +72,7 @@
                 This is a license header template.
               -->
               <exclude>src/main/resources/config/maven-header.txt</exclude>
+              <exclude>src/main/resources/config/maven-header-2.txt</exclude>
             </excludes>
           </configuration>
         </plugin>
